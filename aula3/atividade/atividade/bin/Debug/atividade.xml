@@ -1,0 +1,40 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+atividade
+</name>
+</assembly>
+<members>
+<member name="P:atividade.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:atividade.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:atividade.My.Resources.Resources.kisspng_animation_cartoon_3d_computer_graphics_desktop_wal_pocoyo_5ac4565f5ba0a3_7792217015228166073753">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:atividade.My.Resources.Resources.kisspng_character_television_show_image_cartoon_portable_n_5d38e2d5e3a896_5179803015640091739325">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:atividade.My.Resources.Resources.kisspng_desktop_wallpaper_image_clip_art_portable_network_phineas_5b63423cab2e71_6107907515332316767012">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:atividade.My.Resources.Resources.kisspng_desktop_wallpaper_image_television_show_pocoyo_dan_pocoyo2_mega_idea_5d1cd1a50cc0d4_8002944115621697650523">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:atividade.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

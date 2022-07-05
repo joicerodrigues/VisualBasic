@@ -1,0 +1,20 @@
+E:\3\pc\exemp2\exemp2\bin\Debug\exemp2.exe.config
+E:\3\pc\exemp2\exemp2\bin\Debug\exemp2.exe
+E:\3\pc\exemp2\exemp2\bin\Debug\exemp2.pdb
+E:\3\pc\exemp2\exemp2\bin\Debug\exemp2.xml
+E:\3\pc\exemp2\exemp2\obj\Debug\exemp2.frmrelogio.resources
+E:\3\pc\exemp2\exemp2\obj\Debug\exemp2.Resources.resources
+E:\3\pc\exemp2\exemp2\obj\Debug\exemp2.vbproj.GenerateResource.Cache
+E:\3\pc\exemp2\exemp2\obj\Debug\exemp2.exe
+E:\3\pc\exemp2\exemp2\obj\Debug\exemp2.xml
+E:\3\pc\exemp2\exemp2\obj\Debug\exemp2.pdb
+E:\3 ano\pc\aula1\exemp2\exemp2\bin\Debug\exemp2.exe.config
+E:\3 ano\pc\aula1\exemp2\exemp2\obj\Debug\exemp2.exe
+E:\3 ano\pc\aula1\exemp2\exemp2\obj\Debug\exemp2.xml
+E:\3 ano\pc\aula1\exemp2\exemp2\obj\Debug\exemp2.pdb
+E:\3 ano\pc\aula1\exemp2\exemp2\bin\Debug\exemp2.exe
+E:\3 ano\pc\aula1\exemp2\exemp2\bin\Debug\exemp2.pdb
+E:\3 ano\pc\aula1\exemp2\exemp2\bin\Debug\exemp2.xml
+E:\3 ano\pc\aula1\exemp2\exemp2\obj\Debug\exemp2.frmrelogio.resources
+E:\3 ano\pc\aula1\exemp2\exemp2\obj\Debug\exemp2.Resources.resources
+E:\3 ano\pc\aula1\exemp2\exemp2\obj\Debug\exemp2.vbproj.GenerateResource.Cache

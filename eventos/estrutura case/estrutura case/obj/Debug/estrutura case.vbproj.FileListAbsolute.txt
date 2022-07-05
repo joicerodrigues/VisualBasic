@@ -1,0 +1,10 @@
+E:\3 ano\pc\eventos\estrutura case\estrutura case\bin\Debug\estrutura case.exe.config
+E:\3 ano\pc\eventos\estrutura case\estrutura case\bin\Debug\estrutura case.exe
+E:\3 ano\pc\eventos\estrutura case\estrutura case\bin\Debug\estrutura case.pdb
+E:\3 ano\pc\eventos\estrutura case\estrutura case\bin\Debug\estrutura case.xml
+E:\3 ano\pc\eventos\estrutura case\estrutura case\obj\Debug\estrutura_case.frmcase2.resources
+E:\3 ano\pc\eventos\estrutura case\estrutura case\obj\Debug\estrutura_case.Resources.resources
+E:\3 ano\pc\eventos\estrutura case\estrutura case\obj\Debug\estrutura case.vbproj.GenerateResource.Cache
+E:\3 ano\pc\eventos\estrutura case\estrutura case\obj\Debug\estrutura case.exe
+E:\3 ano\pc\eventos\estrutura case\estrutura case\obj\Debug\estrutura case.xml
+E:\3 ano\pc\eventos\estrutura case\estrutura case\obj\Debug\estrutura case.pdb

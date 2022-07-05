@@ -1,0 +1,12 @@
+D:\3 ano\pc\cassino\cassino\cassino\bin\Debug\cassino.exe.config
+D:\3 ano\pc\cassino\cassino\cassino\bin\Debug\cassino.exe
+D:\3 ano\pc\cassino\cassino\cassino\bin\Debug\cassino.pdb
+D:\3 ano\pc\cassino\cassino\cassino\bin\Debug\cassino.xml
+D:\3 ano\pc\cassino\cassino\cassino\obj\Debug\cassino.vbprojAssemblyReference.cache
+D:\3 ano\pc\cassino\cassino\cassino\obj\Debug\cassino.frmcassino.resources
+D:\3 ano\pc\cassino\cassino\cassino\obj\Debug\cassino.Resources.resources
+D:\3 ano\pc\cassino\cassino\cassino\obj\Debug\cassino.vbproj.GenerateResource.cache
+D:\3 ano\pc\cassino\cassino\cassino\obj\Debug\cassino.vbproj.CoreCompileInputs.cache
+D:\3 ano\pc\cassino\cassino\cassino\obj\Debug\cassino.exe
+D:\3 ano\pc\cassino\cassino\cassino\obj\Debug\cassino.xml
+D:\3 ano\pc\cassino\cassino\cassino\obj\Debug\cassino.pdb

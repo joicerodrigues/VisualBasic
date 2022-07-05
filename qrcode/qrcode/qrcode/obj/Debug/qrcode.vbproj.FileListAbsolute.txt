@@ -1,0 +1,12 @@
+E:\3 ano\pc\qrcode\qrcode\qrcode\bin\Debug\qrcode.exe.config
+E:\3 ano\pc\qrcode\qrcode\qrcode\obj\Debug\qrcode.vbprojResolveAssemblyReference.cache
+E:\3 ano\pc\qrcode\qrcode\qrcode\obj\Debug\qrcode.frmqrcode.resources
+E:\3 ano\pc\qrcode\qrcode\qrcode\obj\Debug\qrcode.Resources.resources
+E:\3 ano\pc\qrcode\qrcode\qrcode\obj\Debug\qrcode.vbproj.GenerateResource.Cache
+E:\3 ano\pc\qrcode\qrcode\qrcode\bin\Debug\qrcode.exe
+E:\3 ano\pc\qrcode\qrcode\qrcode\bin\Debug\qrcode.pdb
+E:\3 ano\pc\qrcode\qrcode\qrcode\bin\Debug\qrcode.xml
+E:\3 ano\pc\qrcode\qrcode\qrcode\bin\Debug\MessagingToolkit.QRCode.dll
+E:\3 ano\pc\qrcode\qrcode\qrcode\obj\Debug\qrcode.exe
+E:\3 ano\pc\qrcode\qrcode\qrcode\obj\Debug\qrcode.xml
+E:\3 ano\pc\qrcode\qrcode\qrcode\obj\Debug\qrcode.pdb

@@ -1,0 +1,13 @@
+C:\instalador\instalador\instalador\bin\Debug\instalador.exe.config
+C:\instalador\instalador\instalador\bin\Debug\instalador.exe.manifest
+C:\instalador\instalador\instalador\bin\Debug\instalador.application
+C:\instalador\instalador\instalador\bin\Debug\instalador.exe
+C:\instalador\instalador\instalador\bin\Debug\instalador.pdb
+C:\instalador\instalador\instalador\bin\Debug\instalador.xml
+C:\instalador\instalador\instalador\obj\Debug\instalador.Resources.resources
+C:\instalador\instalador\instalador\obj\Debug\instalador.vbproj.GenerateResource.Cache
+C:\instalador\instalador\instalador\obj\Debug\instalador.exe.manifest
+C:\instalador\instalador\instalador\obj\Debug\instalador.application
+C:\instalador\instalador\instalador\obj\Debug\instalador.exe
+C:\instalador\instalador\instalador\obj\Debug\instalador.xml
+C:\instalador\instalador\instalador\obj\Debug\instalador.pdb

@@ -1,0 +1,16 @@
+E:\3 ano\pc\Repetição\exemplo4\exemplo4\bin\Debug\exemplo4.exe.config
+E:\3 ano\pc\Repetição\exemplo4\exemplo4\obj\Debug\exemplo4.exe
+E:\3 ano\pc\Repetição\exemplo4\exemplo4\obj\Debug\exemplo4.xml
+E:\3 ano\pc\Repetição\exemplo4\exemplo4\obj\Debug\exemplo4.pdb
+D:\3 ano\pc\Repetição\exemplo4\exemplo4\bin\Debug\exemplo4.exe.config
+D:\3 ano\pc\Repetição\exemplo4\exemplo4\bin\Debug\exemplo4.exe
+D:\3 ano\pc\Repetição\exemplo4\exemplo4\bin\Debug\exemplo4.pdb
+D:\3 ano\pc\Repetição\exemplo4\exemplo4\bin\Debug\exemplo4.xml
+D:\3 ano\pc\Repetição\exemplo4\exemplo4\obj\Debug\TABUADA EM FOR.vbprojAssemblyReference.cache
+D:\3 ano\pc\Repetição\exemplo4\exemplo4\obj\Debug\exemplo4.frmrepete4.resources
+D:\3 ano\pc\Repetição\exemplo4\exemplo4\obj\Debug\exemplo4.Resources.resources
+D:\3 ano\pc\Repetição\exemplo4\exemplo4\obj\Debug\TABUADA EM FOR.vbproj.GenerateResource.cache
+D:\3 ano\pc\Repetição\exemplo4\exemplo4\obj\Debug\TABUADA EM FOR.vbproj.CoreCompileInputs.cache
+D:\3 ano\pc\Repetição\exemplo4\exemplo4\obj\Debug\exemplo4.exe
+D:\3 ano\pc\Repetição\exemplo4\exemplo4\obj\Debug\exemplo4.xml
+D:\3 ano\pc\Repetição\exemplo4\exemplo4\obj\Debug\exemplo4.pdb

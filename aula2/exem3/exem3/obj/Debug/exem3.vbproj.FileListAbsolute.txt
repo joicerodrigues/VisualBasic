@@ -1,0 +1,10 @@
+E:\3\pc\aula2\exem3\exem3\bin\Debug\exem3.exe.config
+E:\3\pc\aula2\exem3\exem3\bin\Debug\exem3.exe
+E:\3\pc\aula2\exem3\exem3\bin\Debug\exem3.pdb
+E:\3\pc\aula2\exem3\exem3\bin\Debug\exem3.xml
+E:\3\pc\aula2\exem3\exem3\obj\Debug\exem3.Form1.resources
+E:\3\pc\aula2\exem3\exem3\obj\Debug\exem3.Resources.resources
+E:\3\pc\aula2\exem3\exem3\obj\Debug\exem3.vbproj.GenerateResource.Cache
+E:\3\pc\aula2\exem3\exem3\obj\Debug\exem3.exe
+E:\3\pc\aula2\exem3\exem3\obj\Debug\exem3.xml
+E:\3\pc\aula2\exem3\exem3\obj\Debug\exem3.pdb

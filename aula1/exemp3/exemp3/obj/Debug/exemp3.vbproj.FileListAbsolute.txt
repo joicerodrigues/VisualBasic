@@ -1,0 +1,10 @@
+E:\3\pc\exemp3\exemp3\bin\Debug\exemp3.exe.config
+E:\3\pc\exemp3\exemp3\bin\Debug\exemp3.exe
+E:\3\pc\exemp3\exemp3\bin\Debug\exemp3.pdb
+E:\3\pc\exemp3\exemp3\bin\Debug\exemp3.xml
+E:\3\pc\exemp3\exemp3\obj\Debug\exemp3.frmsoma.resources
+E:\3\pc\exemp3\exemp3\obj\Debug\exemp3.Resources.resources
+E:\3\pc\exemp3\exemp3\obj\Debug\exemp3.vbproj.GenerateResource.Cache
+E:\3\pc\exemp3\exemp3\obj\Debug\exemp3.exe
+E:\3\pc\exemp3\exemp3\obj\Debug\exemp3.xml
+E:\3\pc\exemp3\exemp3\obj\Debug\exemp3.pdb

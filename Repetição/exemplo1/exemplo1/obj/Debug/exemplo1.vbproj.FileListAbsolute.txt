@@ -1,0 +1,10 @@
+E:\3 ano\pc\Repetição\exemplo1\exemplo1\bin\Debug\exemplo1.exe.config
+E:\3 ano\pc\Repetição\exemplo1\exemplo1\bin\Debug\exemplo1.exe
+E:\3 ano\pc\Repetição\exemplo1\exemplo1\bin\Debug\exemplo1.pdb
+E:\3 ano\pc\Repetição\exemplo1\exemplo1\bin\Debug\exemplo1.xml
+E:\3 ano\pc\Repetição\exemplo1\exemplo1\obj\Debug\exemplo1.frmrepete.resources
+E:\3 ano\pc\Repetição\exemplo1\exemplo1\obj\Debug\exemplo1.Resources.resources
+E:\3 ano\pc\Repetição\exemplo1\exemplo1\obj\Debug\exemplo1.vbproj.GenerateResource.Cache
+E:\3 ano\pc\Repetição\exemplo1\exemplo1\obj\Debug\exemplo1.exe
+E:\3 ano\pc\Repetição\exemplo1\exemplo1\obj\Debug\exemplo1.xml
+E:\3 ano\pc\Repetição\exemplo1\exemplo1\obj\Debug\exemplo1.pdb

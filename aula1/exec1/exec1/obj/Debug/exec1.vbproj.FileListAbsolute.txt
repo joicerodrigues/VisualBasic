@@ -1,0 +1,14 @@
+E:\3\pc\exec1\exec1\bin\Debug\exec1.exe.config
+E:\3\pc\exec1\exec1\bin\Debug\exec1.exe
+E:\3\pc\exec1\exec1\bin\Debug\exec1.pdb
+E:\3\pc\exec1\exec1\bin\Debug\exec1.xml
+E:\3\pc\exec1\exec1\obj\Debug\exec1.Form1.resources
+E:\3\pc\exec1\exec1\obj\Debug\exec1.Resources.resources
+E:\3\pc\exec1\exec1\obj\Debug\exec1.vbproj.GenerateResource.Cache
+E:\3\pc\exec1\exec1\obj\Debug\exec1.exe
+E:\3\pc\exec1\exec1\obj\Debug\exec1.xml
+E:\3\pc\exec1\exec1\obj\Debug\exec1.pdb
+E:\3 ano\pc\aula1\exec1\exec1\bin\Debug\exec1.exe.config
+E:\3 ano\pc\aula1\exec1\exec1\obj\Debug\exec1.exe
+E:\3 ano\pc\aula1\exec1\exec1\obj\Debug\exec1.xml
+E:\3 ano\pc\aula1\exec1\exec1\obj\Debug\exec1.pdb

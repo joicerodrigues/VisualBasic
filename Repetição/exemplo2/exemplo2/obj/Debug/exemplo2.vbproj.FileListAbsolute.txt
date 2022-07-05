@@ -1,0 +1,11 @@
+E:\3 ano\pc\Repetição\exemplo2\exemplo2\bin\Debug\exemplo2.exe.config
+E:\3 ano\pc\Repetição\exemplo2\exemplo2\bin\Debug\exemplo2.exe
+E:\3 ano\pc\Repetição\exemplo2\exemplo2\bin\Debug\exemplo2.pdb
+E:\3 ano\pc\Repetição\exemplo2\exemplo2\bin\Debug\exemplo2.xml
+E:\3 ano\pc\Repetição\exemplo2\exemplo2\obj\Debug\exemplo2.frmrepete2.resources
+E:\3 ano\pc\Repetição\exemplo2\exemplo2\obj\Debug\exemplo2.Resources.resources
+E:\3 ano\pc\Repetição\exemplo2\exemplo2\obj\Debug\exemplo2.vbproj.GenerateResource.Cache
+E:\3 ano\pc\Repetição\exemplo2\exemplo2\obj\Debug\exemplo2.exe
+E:\3 ano\pc\Repetição\exemplo2\exemplo2\obj\Debug\exemplo2.xml
+E:\3 ano\pc\Repetição\exemplo2\exemplo2\obj\Debug\exemplo2.pdb
+E:\3 ano\pc\Repetição\exemplo2\exemplo2\obj\Debug\exemplo2.vbprojResolveAssemblyReference.cache

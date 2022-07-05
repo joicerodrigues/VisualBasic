@@ -1,0 +1,10 @@
+E:\3 ano\pc\eventos\eventos\eventos\bin\Debug\eventos.exe.config
+E:\3 ano\pc\eventos\eventos\eventos\bin\Debug\eventos.exe
+E:\3 ano\pc\eventos\eventos\eventos\bin\Debug\eventos.pdb
+E:\3 ano\pc\eventos\eventos\eventos\bin\Debug\eventos.xml
+E:\3 ano\pc\eventos\eventos\eventos\obj\Debug\eventos.frmeventos.resources
+E:\3 ano\pc\eventos\eventos\eventos\obj\Debug\eventos.Resources.resources
+E:\3 ano\pc\eventos\eventos\eventos\obj\Debug\eventos.vbproj.GenerateResource.Cache
+E:\3 ano\pc\eventos\eventos\eventos\obj\Debug\eventos.exe
+E:\3 ano\pc\eventos\eventos\eventos\obj\Debug\eventos.xml
+E:\3 ano\pc\eventos\eventos\eventos\obj\Debug\eventos.pdb

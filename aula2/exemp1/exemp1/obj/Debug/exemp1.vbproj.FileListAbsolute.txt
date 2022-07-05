@@ -1,0 +1,10 @@
+c:\users\aluno\documents\visual studio 2013\Projects\exemp1\exemp1\bin\Debug\exemp1.exe.config
+c:\users\aluno\documents\visual studio 2013\Projects\exemp1\exemp1\obj\Debug\exemp1.frmaula2.resources
+c:\users\aluno\documents\visual studio 2013\Projects\exemp1\exemp1\obj\Debug\exemp1.Resources.resources
+c:\users\aluno\documents\visual studio 2013\Projects\exemp1\exemp1\obj\Debug\exemp1.vbproj.GenerateResource.Cache
+c:\users\aluno\documents\visual studio 2013\Projects\exemp1\exemp1\bin\Debug\exemp1.exe
+c:\users\aluno\documents\visual studio 2013\Projects\exemp1\exemp1\bin\Debug\exemp1.pdb
+c:\users\aluno\documents\visual studio 2013\Projects\exemp1\exemp1\bin\Debug\exemp1.xml
+c:\users\aluno\documents\visual studio 2013\Projects\exemp1\exemp1\obj\Debug\exemp1.exe
+c:\users\aluno\documents\visual studio 2013\Projects\exemp1\exemp1\obj\Debug\exemp1.xml
+c:\users\aluno\documents\visual studio 2013\Projects\exemp1\exemp1\obj\Debug\exemp1.pdb

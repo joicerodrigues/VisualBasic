@@ -1,0 +1,10 @@
+E:\3 ano\pc\quiz\QUIZ\QUIZ\bin\Debug\QUIZ.exe.config
+E:\3 ano\pc\quiz\QUIZ\QUIZ\bin\Debug\QUIZ.exe
+E:\3 ano\pc\quiz\QUIZ\QUIZ\bin\Debug\QUIZ.pdb
+E:\3 ano\pc\quiz\QUIZ\QUIZ\bin\Debug\QUIZ.xml
+E:\3 ano\pc\quiz\QUIZ\QUIZ\obj\Debug\QUIZ.Resources.resources
+E:\3 ano\pc\quiz\QUIZ\QUIZ\obj\Debug\QUIZ.vbproj.GenerateResource.Cache
+E:\3 ano\pc\quiz\QUIZ\QUIZ\obj\Debug\QUIZ.exe
+E:\3 ano\pc\quiz\QUIZ\QUIZ\obj\Debug\QUIZ.xml
+E:\3 ano\pc\quiz\QUIZ\QUIZ\obj\Debug\QUIZ.pdb
+E:\3 ano\pc\quiz\QUIZ\QUIZ\obj\Debug\QUIZ.frmquiz.resources
